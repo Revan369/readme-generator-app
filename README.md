@@ -85,6 +85,10 @@ This project is licensed under the MIT license.
 ## Questions
 If you have any questions or need further assistance, feel free to reach out:
 
-GitHub: revan369
+GitHub: [revan369](http://github.com/revan369)
 
 Email: dilucachris@gmail.com
+
+## Demo Video
+
+Watch a video demonstration of the functionality on [YouTube](https://www.youtube.com/watch?v=JkUqsk6R87k&t=29s).
